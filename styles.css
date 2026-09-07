@@ -29,6 +29,11 @@ a {
     padding: 1em 2em;
 }
 
+a:hover {
+    color: #828271;
+    background-color: #e8e8d9;
+}
+
 h1{
 
     color:#828271;
